@@ -1,0 +1,5 @@
+pip install sklearn
+pip install numpy
+pip install pandas
+pip install pillow
+pip install newspaper3k
