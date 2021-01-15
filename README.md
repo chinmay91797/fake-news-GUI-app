@@ -2,7 +2,7 @@
 ## Installation
 ##### Prerequisites
 1. Requires `python 3.6` or newer version of python to run.
-2. Install dependencies using:
+2. Install dependencies :
    - Install all the libraries in `requirements.txt` using the following command. 
        > Note: All command must be run in the same directory as `requirements.txt` to be installed.
        ```
