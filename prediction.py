@@ -17,7 +17,7 @@ def fakenews(var):
   dictx={"prediction": prediction[0], "probability": prob[0][1]}
   return dictx
 
-# Running in non-GUI consol
+# Running in non-GUI console
 if __name__=='__main__':
   Userinput=input("URL: ")
   para=link(Userinput)
